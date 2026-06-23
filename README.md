@@ -99,7 +99,7 @@ Everything is in-memory for now (a Python dict). Four users (u1–u4) are seeded
 # Points System
 
 ## Demo Video
-[Click here to watch the demo](https://drive.google.com/drive/folders/1TzzEYjuKY9mD_k3M7bBSeLaOBENm6o7t?usp=sharing)
+[Click here to watch the demo](https://drive.google.com/file/d/1glr1vIfSlCEY3QQx4UUpaQ4LqCgDEj2G/view?usp=sharing)
 
 ---
 
